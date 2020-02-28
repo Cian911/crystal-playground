@@ -1,0 +1,12 @@
+name: shard-me
+version: 0.0.1
+
+description:
+  - A sample palindrome program to introduce myself to crystal
+
+authors:
+  - Cian Gallahger <cian.gallagher@storyful.com>
+
+crystal: 0.27.0
+
+license: MIT
